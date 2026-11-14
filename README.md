@@ -1,0 +1,1 @@
+# Webots URDF Initializers - Python
