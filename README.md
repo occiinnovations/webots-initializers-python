@@ -4,7 +4,7 @@ Python starter templates and utilities for URDF robots in Webots. Built to elimi
 
 > **Note:** This repository is the dedicated Python successor to [`webots-urdf-initializers`](https://github.com/occiinnovations/webots-urdf-initializers), separated from compiled C/C++ controllers. This was in order to run the code as an external controller and integrate libraries.
 
-## Repository Structure
+## File Directory
 
 ```text
 webots-python/        
@@ -14,7 +14,6 @@ webots-python/
 │   ├── UR5e/
 │   └── UR10e/
 ├── utils/         
-├── pyproject.toml
 ├── requirements.txt
 └── README.md
 ```
